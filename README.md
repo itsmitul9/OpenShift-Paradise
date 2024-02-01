@@ -98,6 +98,40 @@ Access the course here [do120](https://role.rhu.redhat.com/rol-rhu/app/courses/d
 * For students that are new to Red Hat OpenShift it is recommended that you learn the fundamental skills of managing Red OpenShift clusters, before taking DO120, from the following courses: Red Hat OpenShift Administration I - Managing Containers and Kubernetes (DO180) and Red Hat OpenShift Administration II: Operating a Production Kubernetes Cluster (DO280)
 * Students with previous experience managing Kubernetes clusters are advised to take DO180 and DO280 before taking DO120 or at least acquire foundational skills operating Red Hat OpenShift clusters.
 
+# DO322
+### Red Hat OpenShift Installation Lab
+### Based on OCP 4
+
+## Links
+Access the course here [do322](https://role.rhu.redhat.com/rol-rhu/app/courses/do322-4.6/pages/pr01)
+
+### Prerequisites
+* Red Hat Certified Specialist in OpenShift Administration certification (on OpenShift 4) or equivalent knowledge is required.
+* Red Hat Certified System Administrator (RHCSA) certification or equivalent knowledge of Red Hat Enterprise Linux system administration is also strongly recommended.
+
+### Course Objectives
+* Installing OpenShift on a cloud, virtual, or physical infrastructure.
+
+# DO370
+### Enterprise Kubernetes Storage with Red Hat OpenShift Data Foundation
+### Based on OCP 4.6
+
+## Links
+Access the course here [do370](https://role.rhu.redhat.com/rol-rhu/app/courses/do370-4.7/pages/pr01)
+
+### Prerequisites
+* Red Hat Certified Specialist in OpenShift Administration certification (EX280) or equivalent knowledge for the roles of Red Hat OpenShift cluster administrator or SRE.
+* Red Hat Certified Systems Administrator certification (EX200) or equivalent knowledge of Linux system administration is recommended for all roles.
+* Basic knowledge of storage technologies, such as disk types, SAN, and NAS is recommended
+
+### Course Objectives
+* Install, configure, and manage Red Hat OpenShift Data Foundation in an OpenShift cluster.
+* Provision storage for Red Hat OpenShift cluster services, such as monitoring and registry.
+* Provision file and block storage to applications running on the OpenShift cluster.
+* Monitor and expand storage capacity and performance.
+* Create persistent volume snapshots and clones.
+* Provision object storage in S3 buckets for compatible applications.
+
 # DO380 
 ### Red Hat OpenShift Administration III : Scaling Kubernetes Deployments in the Enterprise 
 ## Links
